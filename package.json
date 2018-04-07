@@ -1,0 +1,32 @@
+{
+  "name": "lambda-callbackify",
+  "version": "0.0.1",
+  "description": "Callbackify for AWS Lambda",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/pambda/lambda-callbackify/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.9.0"
+  },
+  "homepage": "https://github.com/pambda/lambda-callbackify",
+  "keywords": [
+    "aws",
+    "lambda"
+  ],
+  "license": "MIT",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pambda/lambda-callbackify.git"
+  },
+  "scripts": {
+    "prepublishOnly": "npm test",
+    "test": "tape test/test*.js"
+  },
+  "files": [
+    "README.md",
+    "lib/"
+  ]
+}
