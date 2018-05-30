@@ -13,6 +13,8 @@
   "homepage": "https://github.com/pambda/lambda-callbackify",
   "keywords": [
     "aws",
+    "callback",
+    "callbackify",
     "lambda"
   ],
   "license": "MIT",
