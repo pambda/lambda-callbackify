@@ -1,6 +1,6 @@
 {
   "name": "lambda-callbackify",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Callbackify for AWS Lambda",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
