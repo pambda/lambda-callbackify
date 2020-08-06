@@ -5,7 +5,7 @@ Callbackify for AWS Lambda.
 ## Installation
 
 ```
-npm i lambda-callbackify -S
+npm i lambda-callbackify
 ```
 
 ## Usage
